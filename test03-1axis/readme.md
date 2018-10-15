@@ -9,4 +9,4 @@ note that
 * bug -> 19% got stuck because of careless
 * try no fan
 
-## 因寫入困難使用 git push -f
+## due to collision/unmatch i force to push by ``` git push -f ```
