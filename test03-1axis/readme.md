@@ -1,5 +1,5 @@
 # 2018/10/15 axis 1 position loading reliability test
-
+# Beyond 10 sec is invaild
 ## Task : All axes horizonal to the ground and axis-1 for parallel motion from -30 to 30 degree
 
 note that 
