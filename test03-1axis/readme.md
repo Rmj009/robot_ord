@@ -8,5 +8,6 @@ note that
 * link1 -> -30 degree (at 20sec
 * bug -> 19% got stuck because of careless
 * try no fan
+* Almost 3hrs trial
 
 ## due to collision/unmatch i force to push by ``` git push -f ```
