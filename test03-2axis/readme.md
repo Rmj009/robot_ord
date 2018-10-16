@@ -1,6 +1,6 @@
 # 2018/10/16 axis 2 position loading reliability test
 ## Beyond 10 sec is invaild
-## Task : All axes horizonal to the ground and axis-2 for vertical motion from 0 to 90 degree
+## Task : All axes horizonal to the ground and axis-2 for vertical motion from 0 to 90 degree about 16 per min/motion
 note that
 
 # motion to motion per 10sec
