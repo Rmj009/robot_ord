@@ -16,6 +16,13 @@
 ## volt (raidan/second)
 
 
+# Status log
+## Fault and malfunction
+* wires off
+* TwinCAT overheated
+* lose connection while high speed motion planning
+* 10/29 5-axis wires off
+
 
 References:
 https://gitbook.tw/
