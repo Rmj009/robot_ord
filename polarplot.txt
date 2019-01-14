@@ -1,0 +1,6 @@
+
+theta = 0:0.01:2* random('birnbaumsaunders',1,1);
+rho = sin(2*theta).*cos(2*theta);
+x = linspace(-2*random('birnbaumsaunders',1,1),2*random('birnbaumsaunders',1,1));
+y = linspace(0,4*pi)
+polarplot(x,y)
