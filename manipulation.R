@@ -123,7 +123,8 @@ for(path in flist) {
 for (x in result) {
   scaraFrame<-cbind(x)
 
-  }
+}
+
+scaraFrame<-cbind(result[[1]],result[[2]],result[[3]],result[[4]],result[[5]],result[[6]])
 
 T2.test(no2a,no2b)
-?T2.test()
